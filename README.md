@@ -1,1 +1,1 @@
-https://github.com/GAGAN9Z/first-project
+https://github.com/GAGAN9Z/first_project
